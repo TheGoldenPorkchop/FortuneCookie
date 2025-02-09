@@ -2,6 +2,7 @@
 'Spring 2025
 'RCET2265
 'FortuneCookie
+'https://github.com/TheGoldenPorkchop/FortuneCookie
 Module FortuneCookie
 
     Sub Main()
